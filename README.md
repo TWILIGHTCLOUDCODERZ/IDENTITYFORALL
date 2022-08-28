@@ -12,8 +12,14 @@ Raptor web app helps customer and business group to access app in a secured way 
 <li>Social identity application access- #B2C</li>
 <li>business organization account app access-#B2B </li>
 
-## How we built it
+## Architecture
 
+![5](https://user-images.githubusercontent.com/101945531/187052521-8b6095a6-7b93-4bac-b539-9e6d34d76e8b.png)
+
+![6](https://user-images.githubusercontent.com/101945531/187052623-8e841269-e7d5-4766-94ec-cea369f6e48e.png)
+
+## How we built it
+![4](https://user-images.githubusercontent.com/101945531/187052513-f23254eb-25b6-4b38-a70f-2df09386e96e.png)
 Built using Azure cloud Services
 <li> Azure Webapps for app hosting </li>
 <li>Azure AD for access management service</li>
