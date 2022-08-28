@@ -1,4 +1,4 @@
-<TrustFrameworkPolicy xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://schemas.microsoft.com/online/cpim/schemas/2013/06" PolicySchemaVersion="0.3.0.0" TenantId="RAPTORZB2C.onmicrosoft.com" TenantObjectId="6d9d9bb3-efc1-4e44-929d-687b9380b810" PolicyId="B2C_1_RAPTORZ" PublicPolicyUri="http://raptorzb2c.onmicrosoft.com/">
+<TrustFrameworkPolicy xmlns:xsi="" xmlns:xsd="" xmlns="http://schemas.microsoft.com/online/cpim/schemas/2013/06" PolicySchemaVersion="0.3.0.0" TenantId="RAPTORZB2C.onmicrosoft.com" TenantObjectId="6d9d9bb3-efc1-4e44-929d-687b9380b810" PolicyId="B2C_1_RAPTORZ" PublicPolicyUri="http://raptorzb2c.onmicrosoft.com/">
   <BasePolicy>
     <TenantId>RAPTORZB2C.onmicrosoft.com</TenantId>
     <PolicyId>base-v1</PolicyId>
